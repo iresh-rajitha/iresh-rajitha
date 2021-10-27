@@ -1,7 +1,7 @@
 <h1 align="center">Hi world👋, I'm Iresh</h1>
 <h3 align="center">A passionate full-stack developer and enthusiast in machine learning</h3>
 <hr>
-<div style="height:330px">
+<div style="height: 330px">
 <img align="right" alt="GIF" src="https://github.com/iresh-rajitha/iresh-rajitha/blob/main/assests/0_7Q3yvSIv_t0ioJ-Z.gif" width="auto" height="300" />
 - 🔭 I’m currently working on **Sinhala-virtual-assistant**
 
@@ -10,8 +10,11 @@
 - 📫 How to reach me **iresh.rajitha@gmail.com**
 
 - ⚡ Fun fact **python is never boring**
+
+    ---
 </div>
 <br>
+<hr>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iresh-rajitha&label=Profile%20views&color=0e75b6&style=flat" alt="iresh-rajitha" /> </p>
 
