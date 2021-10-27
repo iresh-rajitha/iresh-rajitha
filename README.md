@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iresh-rajitha" alt="iresh-rajitha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajitha_iresh" target="blank"><img src="https://img.shields.io/twitter/follow/rajitha_iresh?logo=twitter&style=for-the-badge" alt="rajitha_iresh" /></a> </p>
-
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
 - 🔭 I’m currently working on **Sinhala-virtual-assistant**
 
 - 🌱 I’m currently learning **machine learning, deep learning and natural language processing**
