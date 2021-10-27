@@ -3,7 +3,8 @@
 <hr>
 <div style="height: 330px">
 <img align="right" alt="GIF" src="https://github.com/iresh-rajitha/iresh-rajitha/blob/main/assests/0_7Q3yvSIv_t0ioJ-Z.gif"  height="250" />
-- 🔭 I’m currently working on **Sinhala-virtual-assistant**
+<br>
+    - 🔭 I’m currently working on **Sinhala-virtual-assistant**
 
 - 🌱 I’m currently learning **machine learning, deep learning and natural language processing**
 
