@@ -14,7 +14,6 @@
     ---
 </div>
 <br>
-<hr>
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iresh-rajitha&label=Profile%20views&color=0e75b6&style=flat" alt="iresh-rajitha" /> </p>
 
