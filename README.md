@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer and enthusiast in machine learning</h3>
 <hr>
 <div style="height: 330px">
-<img align="right" alt="GIF" src="https://github.com/iresh-rajitha/iresh-rajitha/blob/main/assests/0_7Q3yvSIv_t0ioJ-Z.gif" width="500" height="320" />
+<img align="right" alt="GIF" src="https://github.com/iresh-rajitha/iresh-rajitha/blob/main/assests/0_7Q3yvSIv_t0ioJ-Z.gif" width="auto" height="320" />
 - 🔭 I’m currently working on **Sinhala-virtual-assistant**
 
 - 🌱 I’m currently learning **machine learning, deep learning and natural language processing**
