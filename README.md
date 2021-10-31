@@ -18,7 +18,7 @@
 <div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iresh-rajitha&label=Profile%20views&color=0e75b6&style=flat" alt="iresh-rajitha" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iresh-rajitha" alt="iresh-rajitha" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iresh-rajitha&theme=dracula" alt="iresh-rajitha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajitha_iresh" target="blank"><img src="https://img.shields.io/twitter/follow/rajitha_iresh?logo=twitter&style=for-the-badge" alt="rajitha_iresh" /></a> </p>
 
